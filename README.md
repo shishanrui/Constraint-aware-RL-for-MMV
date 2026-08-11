@@ -114,8 +114,6 @@ The RBC runner performs a full-year simulation by default. Its output is written
 
 Each RL folder contains year-evaluation analysis and representative-week plotting scripts. Shared metric definitions live in `shared_eval/` so the RL and RBC results use the same comfort, energy, mode, and switching calculations.
 
-See [README_SCRIPTS.md](README_SCRIPTS.md) for the complete script inventory, command patterns, paths, and output locations.
-
 ## Repository layout
 
 ```text
