@@ -1,0 +1,10 @@
+fmpy==0.3.27
+gymnasium==1.2.3
+matplotlib==3.10.8
+numpy==2.4.1
+pandas==3.0.0
+scipy==1.17.0
+stable-baselines3==2.7.1
+sb3-contrib==2.7.1
+tensorboard==2.20.0
+torch==2.10.0
