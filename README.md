@@ -123,7 +123,6 @@ Each RL folder contains year-evaluation analysis and representative-week plottin
 |-- unmaskable_ppo_no_safe_train/
 |-- rbc/
 |-- shared_eval/
-|-- README_SCRIPTS.md
 `-- requirements.txt
 ```
 
