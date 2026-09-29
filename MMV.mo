@@ -1,5 +1,5 @@
-package MMV_clean
-  // reference: examples->VAV reheat->base clases->Floor "Model of a floor of the building"
+package MMV
+
 
   package BaseClasses
     record FAN_per
@@ -3081,4 +3081,4 @@ package MMV_clean
 
   annotation(
     uses(Buildings(version="11.1.0"),   Modelica(version="4.1.0")));
-end MMV_clean;
+end MMV;
