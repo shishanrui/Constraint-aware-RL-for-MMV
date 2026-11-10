@@ -141,4 +141,15 @@ Each RL experiment is intentionally self-contained and includes its own environm
 
 If you find this repository useful, please cite:
 
-> [Citation to be added]
+Shi, S., Buckle, R., Ono, E., Liang, W., Akashi, Y., Chong, A., & Miyata, S. (2026). Handling hard constraints in reinforcement learning for mixed-mode ventilation: Action masking versus safety correction. *Energy and Buildings*, Article 118489. https://doi.org/10.1016/j.enbuild.2026.118489
+
+```bibtex
+@article{shi2026handling,
+  title   = {Handling hard constraints in reinforcement learning for mixed-mode ventilation: Action masking versus safety correction},
+  author  = {Shi, Shanrui and Buckle, Roman and Ono, Eikichi and Liang, Wei and Akashi, Yasunori and Chong, Adrian and Miyata, Shohei},
+  journal = {Energy and Buildings},
+  year    = {2026},
+  pages   = {118489},
+  doi     = {10.1016/j.enbuild.2026.118489}
+}
+```
